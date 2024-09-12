@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 📲 I’m currently learning cross-platform app development
+- ⚡ I'm also learning Data Structure and Algorithm using JAVA
 <!--
 **sameer-kumar04/sameer-kumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
