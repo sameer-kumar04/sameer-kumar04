@@ -2,7 +2,7 @@
 
 - 📲 I’m currently learning cross-platform app development (using Flutter)
 - ⚡ I'm also learning Data Structure and Algorithm using JAVA
-- https://leetcard.jacoblin.cool/WbdRcGC43G?theme=dark&font=Darker%20Grotesque&ext=heatmap
+![LeetCode Stats](https://leetcard.jacoblin.cool/WbdRcGC43G?theme=dark&font=Darker%20Grotesque&ext=heatmap)
 
 
 <!--
